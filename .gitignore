@@ -1,0 +1,16 @@
+# Raw Data (PII Protection - Berisi nomor kontak pelanggan)
+chat_mentah.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
